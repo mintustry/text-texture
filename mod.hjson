@@ -1,0 +1,6 @@
+name: "Name"
+displayName: "displayName" //what displays in the mod selection menu
+author: "author"
+description: "description"
+version: "-1"
+minGameVersion: "112"
